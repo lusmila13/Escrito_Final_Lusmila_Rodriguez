@@ -1,0 +1,16 @@
+.equipo-favorito {
+    margin: 20px;
+    text-align: center;
+  }
+  .equipo-favorito img {
+    max-width: 200px;
+    margin: 20px 0;
+  }
+  .redes-sociales a {
+    margin: 5px;
+    text-decoration: none;
+    color: #007bff;
+  }
+  .redes-sociales a:hover {
+    color: #0056b3;
+  }
